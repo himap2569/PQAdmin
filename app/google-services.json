@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "813200470498",
+    "firebase_url": "https://fir-25800.firebaseio.com",
+    "project_id": "fir-25800",
+    "storage_bucket": "fir-25800.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813200470498:android:46e5f59b256a1d66d3c9bb",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813200470498-3f9hlti65mekcldhl6ukk2j8mcuod9jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqvp5pHn6ubHx_Yl4TJH58kWL-Ci-W34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813200470498-3f9hlti65mekcldhl6ukk2j8mcuod9jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813200470498:android:b88de57e554411ffd3c9bb",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "813200470498-l65ohg16pdn7jlt01ql284vtnm0c096r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase",
+            "certificate_hash": "50dba3deabeb15b3c95b91c2e670fa7d8396b435"
+          }
+        },
+        {
+          "client_id": "813200470498-3f9hlti65mekcldhl6ukk2j8mcuod9jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqvp5pHn6ubHx_Yl4TJH58kWL-Ci-W34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "813200470498-3f9hlti65mekcldhl6ukk2j8mcuod9jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
